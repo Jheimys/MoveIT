@@ -36,9 +36,9 @@ Project with emphasis in web development using Bootstrap. The main goal of the a
 
 # Project access
 
-:link: move-it-kappa.vercel.app
+:link: https://move-it-kappa.vercel.app/
 
-## Autor
+## Author
 
 ![img](https://github.com/Jheimys.png?size=100)
 
