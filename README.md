@@ -1,60 +1,42 @@
-![logo](https://github.com/Jheimys/Organo_II/assets/80724830/2b87d68b-1d93-4f99-b337-63fcca82ef31) <h1 align=center> ORGANO II</h1>
 
-# Bem vindo! 👋
+ 
+  <p align=center>
+    <image width="90" heigth="90" src='https://github.com/Jheimys/MoveIT/assets/80724830/a70ab01c-0dde-48d1-9b24-800cba7232c5'>
+  </p>
+  
+  <h1  align=center>  Move it </h1>
+
+# Welcome!👋
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
 ![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-Obrigado pela visita e fique a vontade!
+Thanks for visiting and enjoy!
 
-Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
+I'm always looking to improve my code, I'll be happy with your feedback.
 
-# Descrição do Projeto
+# Project description
 Project with emphasis in web development using Bootstrap. The main goal of the application was simulate the layout of a moving company. 
+
   <p align=center>
-    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/OrganoIIform.png'>
-  </p>
-  <p align=center>
-    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/oganoiifunc.png'>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/move%20it.png'>
   </p>
 
-# Status do Projeto
+# Project Status
 
-> :trophy: Finalizado ::trophy:
+> :trophy: Finished ::trophy:
 
-# Funcionalidades do projeto
-
-:hammer: `Funcionalidade 1`: cadastro de colaboradores em sua Equipe.
-
-<p align=center>
-  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organo-gif-maker.gif'>
-</p>
-
-:hammer: `Funcionalidade 2`: Criar novas Equipes.
-
-<p align=center>
-  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIInovotime.gif'>
-</p>
-
-:hammer: `Funcionalidade 3`: Fexibilidade para criar novos estilos para as equipes
-
-<p align=center>
-  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIIstyle.gif'>
-</p>
-
-# Tecnologias:
+# Technologies:
 
 :heavy_check_mark: HTML
 
 :heavy_check_mark:CSS
 
-:heavy_check_mark: JavaScript
+:heavy_check_mark: Bootstrap
 
-:heavy_check_mark: React
+# Project access
 
-# Acesso ao projeto
-
-:link: https://organo-ii.vercel.app/
+:link: 
 
 ## Autor
 
