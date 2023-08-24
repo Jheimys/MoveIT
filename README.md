@@ -11,9 +11,10 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
 ![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-Thanks for visiting and enjoy!
+Thanks for visiting your feedback is really appreciated and will help me to improve my codes. 
 
-I'm always looking to improve my code, I'll be happy with your feedback.
+Hope you enjoy it!
+
 
 # Project description
 Project with emphasis in web development using Bootstrap. The main goal of the application was simulate the layout of a moving company. 
